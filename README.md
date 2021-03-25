@@ -1,2 +1,2 @@
 # corona-virus-tracker
-Tracks global irus totals(updated daily)
+Tracks global virus totals(updated daily)
